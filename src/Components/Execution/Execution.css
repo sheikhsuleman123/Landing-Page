@@ -1,0 +1,26 @@
+
+.forth{
+    height: 500px;
+    margin-top: 80px;
+    background-color: aliceblue;
+    border: 2px solid blue;
+}
+.headM{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.body-section{
+    /* border: 1px solid red; */
+    margin-top: 60px;
+}
+.main5{
+    margin: 0 auto;
+}
+.code-pic{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.scd{
+    margin-top: 30px;
+    margin-left: 40px;
+}

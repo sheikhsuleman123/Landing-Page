@@ -1,0 +1,62 @@
+
+
+.footr{
+    background-color: aliceblue;
+    margin-top: 150px;
+    height: 300px;
+    /* border: 2px solid red; */
+    /* margin: 0 auto; */
+}
+.footr .righto{
+    height: 150px;
+    margin-top: 80px;
+    /* border: 2px solid red; */
+}
+.styling2{
+    width: 140px;
+    height: 33px;
+    color: #fff;
+    margin-top: 100px;
+    background-color: blue;
+}
+.styling{
+    margin-right: 50px;
+    margin-top: 100px;
+}
+
+.hr{
+    color: black;
+    margin-top: 50px;
+    /* border: 1px solid red; */
+}
+.main9{
+    background-color: aliceblue;
+    height: 300px;
+    border-top: 1px solid gray;
+}
+.lhead{
+    margin-top: 100px;
+    /* border: 1px solid red; */
+}
+.last-card{
+    background-color: aliceblue;
+}
+.row .list-menun{
+    margin-top: 100px;
+    /* border: 1px solid red; */
+}
+.m{
+    color: gray;
+    font-size: 18px;
+    font-weight: bold;
+    /* color: red; */
+}
+.n{
+    color: gray;
+    font-family: inherit;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.center-menu{
+    margin-top: 70px;
+}

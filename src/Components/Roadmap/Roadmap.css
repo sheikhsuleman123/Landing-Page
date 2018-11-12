@@ -1,0 +1,71 @@
+.road-main{
+    margin: 0 auto;
+    margin-top: 90px;
+}
+.data{
+    font-family: inherit;
+    color: black;
+}
+#par{
+    color: gray;
+}
+#bold{
+   font-weight: bold;
+   font-family: inherit;
+   margin-right: 5px;
+}
+#light{
+    font-family: inherit;
+    color: black;
+
+}
+.cir1{
+    color: dodgerblue;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.vl{
+    border-left: 2px solid gray;
+    position: absolute;
+    height: 260px;
+    margin-top: 20px;
+    margin-left: 9px;
+}
+.vl2{
+    margin-top: 80px;
+    margin-right: 53px;
+    margin-left: 0px;
+    /* border: 1px solid green; */
+}
+.fa-circle{
+    color: dodgerblue;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    font-size: 12px;
+}
+.july{
+    margin-left: 55px;
+    /* margin-top: 5px; */
+}
+.November{
+    /* position: absolute; */
+    margin-left: 110px;
+    /* margin-top: 420px; */
+    
+}
+.v3{
+    margin-left: 0px;
+    margin-top: 70px;
+}
+.v4{
+    margin-left: 100px;
+}
+.dist{
+    /* position: absolute; */
+    /* margin-top: 5px; */
+    margin-bottom: 5px;
+    /* background-color: red; */
+}
